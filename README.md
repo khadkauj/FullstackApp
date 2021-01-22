@@ -1,10 +1,9 @@
 <h3>A Fullstack MERN APP which shows you a random place that you might visit next year
 by fetching an API that gives you a random picture everytime you login</h3>
-<hr/><hr/>
+<hr style="width=80%/>
 
 <p>  DEMO LINK: https://khadkauj.github.io/FullstackApp/ </p>
-<hr/>
-
+<br />
 <p>This is built with </p>
 <p>➡ReactJS and Redux in front end</p>
 <p>➡Nodejs and express as server(deployed by heroku)</p>

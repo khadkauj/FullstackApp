@@ -2,7 +2,9 @@ A Fullstack MERN APP which shows you a random place that you might visit next ye
 by fetching an API that gives you a random picture everytime you login
 
 DEMO LINK: https://khadkauj.github.io/FullstackApp/
-https://camo.githubusercontent.com/4e4b785ba43f25aff521394f2652229ecbef63fdd87ce6c15ed11685ba6242a9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4275696c74253230776974682d4a6176617363726970742d6f72616e6765
+
+![Drag Racing](Dragster.jpg)
+
 
 This is built with 
 ➡ReactJS and Redux in front end,

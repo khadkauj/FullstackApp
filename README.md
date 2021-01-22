@@ -7,7 +7,7 @@ by fetching an API that gives you a random picture everytime you login</h3>
 <p>➡ReactJS and Redux in front end</p>
 <p>➡Nodejs and express as server(deployed by heroku)</p>
 <p>➡MongoDB Atlas as a database</p>
-<p>➡Other tools: React Router API</p>
+<p>➡Other tools: React Router API, RESTful API, Bcrypt, Joi, Heroku...</p>
 <br />
 <p>Other Features</p>
 <p>➡ lets you delete your user details with no hassle</p>

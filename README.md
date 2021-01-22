@@ -4,7 +4,7 @@ by fetching an API that gives you a random picture everytime you login
 DEMO LINK: https://khadkauj.github.io/FullstackApp/
 
 This is built with 
-➡ReactJS and Redux in front end,
+➡ReactJS and Redux in front end
 ➡Nodejs and express as server(deployed by heroku)
 ➡MongoDB Atlas as a database
 

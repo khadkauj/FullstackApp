@@ -7,6 +7,7 @@ by fetching an API that gives you a random picture everytime you login</h3>
 <p>➡ReactJS and Redux in front end</p>
 <p>➡Nodejs and express as server(deployed by heroku)</p>
 <p>➡MongoDB Atlas as a database</p>
+<p>➡Other tools: React Router API</p>
 <br />
 <p>Other Features</p>
 <p>➡ lets you delete your user details with no hassle</p>
@@ -14,4 +15,5 @@ by fetching an API that gives you a random picture everytime you login</h3>
 <p>➡ user password decrypted using BCRYPT for security</p>
 <p>➡ user data validation during Regsiter and Login using JOI</p>
 <p>➡ realtime data storage using cloud MongoDB Atlas</p>
+<P>➡ responsive across all platforms made by using CSS only</p>
  

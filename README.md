@@ -3,10 +3,6 @@ by fetching an API that gives you a random picture everytime you login
 
 DEMO LINK: https://khadkauj.github.io/FullstackApp/
 
-<img src="https://miro.medium.com/max/1200/1*mk1-6aYaf_Bes1E3Imhc0A.jpeg"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
-
 This is built with 
 ➡ReactJS and Redux in front end,
 ➡Nodejs and express as server(deployed by heroku)
